@@ -1,0 +1,15 @@
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\bin\Debug\net5.0\LinqTutorials.exe
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\bin\Debug\net5.0\LinqTutorials.deps.json
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.json
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.dev.json
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\bin\Debug\net5.0\LinqTutorials.dll
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\bin\Debug\net5.0\LinqTutorials.pdb
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\obj\Debug\net5.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfoInputs.cache
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfo.cs
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csproj.CoreCompileInputs.cache
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\obj\Debug\net5.0\LinqTutorials.dll
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\obj\Debug\net5.0\refint\LinqTutorials.dll
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\obj\Debug\net5.0\LinqTutorials.pdb
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\obj\Debug\net5.0\LinqTutorials.genruntimeconfig.cache
+C:\Users\eryk.gregorczyk\OneDrive - SUPREMIS Sp. z o.o\Pulpit\APBD\Cwiczenia_7\rozwiązanie_chatGPT\APBD-LINQ-main\LinqTutorials\obj\Debug\net5.0\ref\LinqTutorials.dll

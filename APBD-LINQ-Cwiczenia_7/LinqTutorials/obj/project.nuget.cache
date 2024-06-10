@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JF3NtOemmXJs+SLIXtPXUghV09f2phZJeuy5MTavo0z1pTOEEO2Xt7S0HTQvLw3yFJtfSd4ku3gnqfPCh4HLvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eryk.gregorczyk\\OneDrive - SUPREMIS Sp. z o.o\\Pulpit\\APBD\\Cwiczenia_7\\rozwiązanie\\APBD-LINQ-Cwiczenia_7\\LinqTutorials\\LinqTutorials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eryk.gregorczyk\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eryk.gregorczyk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eryk.gregorczyk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eryk.gregorczyk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
